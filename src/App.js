@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, Link, HashRouter} from 'react-router-dom';
 import './App.css';
 import About from './components/About';
 import Home from './components/Home';
@@ -6,7 +6,7 @@ import Projects from './components/Projects';
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <div className="app">
         <ul>
           <li>
@@ -32,7 +32,7 @@ function App() {
           </Route>
         </Switch>
       </div>
-    </Router>
+    </HashRouter>
 
 // Multiple 'Route' tags must always be wrapped
 // in a 'div' tag OR a 'Switch' tag.

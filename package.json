@@ -1,6 +1,6 @@
 {
   "name": "githubpagesapp",
-  "homepage": "https://github.com/jwhite88/githubpagesapp.git",
+  "homepage": "https://github.com/jwhite88/githubpagesapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

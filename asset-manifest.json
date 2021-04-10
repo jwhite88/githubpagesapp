@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jwhite88/githubpagesapp/static/css/main.e8d768e5.chunk.css",
-    "main.js": "/jwhite88/githubpagesapp/static/js/main.ca4b0bcb.chunk.js",
-    "main.js.map": "/jwhite88/githubpagesapp/static/js/main.ca4b0bcb.chunk.js.map",
-    "runtime-main.js": "/jwhite88/githubpagesapp/static/js/runtime-main.36b78f0a.js",
-    "runtime-main.js.map": "/jwhite88/githubpagesapp/static/js/runtime-main.36b78f0a.js.map",
-    "static/js/2.97287d5f.chunk.js": "/jwhite88/githubpagesapp/static/js/2.97287d5f.chunk.js",
-    "static/js/2.97287d5f.chunk.js.map": "/jwhite88/githubpagesapp/static/js/2.97287d5f.chunk.js.map",
-    "static/js/3.326bf037.chunk.js": "/jwhite88/githubpagesapp/static/js/3.326bf037.chunk.js",
-    "static/js/3.326bf037.chunk.js.map": "/jwhite88/githubpagesapp/static/js/3.326bf037.chunk.js.map",
-    "index.html": "/jwhite88/githubpagesapp/index.html",
-    "static/css/main.e8d768e5.chunk.css.map": "/jwhite88/githubpagesapp/static/css/main.e8d768e5.chunk.css.map",
-    "static/js/2.97287d5f.chunk.js.LICENSE.txt": "/jwhite88/githubpagesapp/static/js/2.97287d5f.chunk.js.LICENSE.txt"
+    "main.css": "/githubpagesapp/static/css/main.e8d768e5.chunk.css",
+    "main.js": "/githubpagesapp/static/js/main.ca4b0bcb.chunk.js",
+    "main.js.map": "/githubpagesapp/static/js/main.ca4b0bcb.chunk.js.map",
+    "runtime-main.js": "/githubpagesapp/static/js/runtime-main.ccc72365.js",
+    "runtime-main.js.map": "/githubpagesapp/static/js/runtime-main.ccc72365.js.map",
+    "static/js/2.97287d5f.chunk.js": "/githubpagesapp/static/js/2.97287d5f.chunk.js",
+    "static/js/2.97287d5f.chunk.js.map": "/githubpagesapp/static/js/2.97287d5f.chunk.js.map",
+    "static/js/3.326bf037.chunk.js": "/githubpagesapp/static/js/3.326bf037.chunk.js",
+    "static/js/3.326bf037.chunk.js.map": "/githubpagesapp/static/js/3.326bf037.chunk.js.map",
+    "index.html": "/githubpagesapp/index.html",
+    "static/css/main.e8d768e5.chunk.css.map": "/githubpagesapp/static/css/main.e8d768e5.chunk.css.map",
+    "static/js/2.97287d5f.chunk.js.LICENSE.txt": "/githubpagesapp/static/js/2.97287d5f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.36b78f0a.js",
+    "static/js/runtime-main.ccc72365.js",
     "static/js/2.97287d5f.chunk.js",
     "static/css/main.e8d768e5.chunk.css",
     "static/js/main.ca4b0bcb.chunk.js"
